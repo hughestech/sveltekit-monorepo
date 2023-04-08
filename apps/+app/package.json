@@ -27,15 +27,15 @@
     "svrollbar": "^0.12.0"
   },
   "devDependencies": {
-    "@sveltejs/adapter-auto": "next",
-    "@sveltejs/kit": "next",
+    "@sveltejs/adapter-auto": "2.0.0",
+    "@sveltejs/kit": "1.15.2",
     "autoprefixer": "^10.4.13",
     "eslint": "^8.16.0",
     "eslint-plugin-svelte3": "^4.0.0",
     "postcss": "^8.4.18",
     "postcss-load-config": "^4.0.1",
     "svelte": "^3.53.1",
-    "svelte-check": "^2.7.1",
+    "svelte-check": "^3.2.0",
     "svelte-preprocess": "^4.10.6",
     "tailwindcss": "^3.2.4",
     "@tailwindcss/typography": "^0.5.8",
@@ -45,7 +45,7 @@
     "prettier-plugin-tailwindcss": "^0.1.13",
     "svrollbar": "^0.12.0",
     "svelte-accessible-accordion": "^2.1.0",
-    "vite": "^3.2.4"
+    "vite": "^4.2.0"
   },
   "type": "module"
 }

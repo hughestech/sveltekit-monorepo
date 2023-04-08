@@ -87,7 +87,8 @@ pnpm v7       (or later)image.png
 
 **Installation**
 ```diff
-degit oneezy/monorepo my-app
+degit hughestech/monorepo my-app
+chmod +x .sh/symlinks.sh
 pnpm i
 
 + start all apps
